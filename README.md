@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sina
+- 👋 Hi, I’m Sina
 - 👀 I’m interested in machine learning, AI, ground penetrating radar, computer vision and medical imaging.
 - 🌱 I’m currently learning all of my interests.
 - 💞️ I’m looking to collaborate on all of the aforementioned fields. 
