@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sina
-- 👀 I’m interested in machine learning, AI, radar, ultrasound, computer vision and medical imaging.
+- 👀 I’m interested in imaging, computer vision, machine learning, radar, and ultrasound.
 - 💞️ I’m looking to collaborate on all of the aforementioned fields. 
 - 📫 How to reach me www.linkedin.com/in/sina-mehdinia
 
