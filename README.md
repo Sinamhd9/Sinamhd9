@@ -18,6 +18,7 @@
 ![](https://raw.githubusercontent.com/sinamhd9/github-stats-transparent/output/generated/overview.svg)
 ![](https://raw.githubusercontent.com/sinamhd9/github-stats-transparent/output/generated/languages.svg)
 
+![](https://komarev.com/ghpvc/?username=sinamhd9&color=blueviolet)
 
 <!--
 **Sinamhd9/Sinamhd9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
