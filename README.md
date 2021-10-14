@@ -1,4 +1,4 @@
-## Welcome to my profile!👋
+## Hi, welcome to my profile!👋
 
  My name is Sina. I'm a PhD candidate at Portland State Univeristy, and a Kaggle Expert. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/sina-mehdinia/)!
 
@@ -14,11 +14,11 @@
 
 * 📄 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sinamhd9&show_icons=true&theme=radical&count_private=true&show_icons=true)
 
-![](https://raw.githubusercontent.com/sinamhd9/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/sinamhd9/github-stats-transparent/output/generated/languages.svg)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sinamhd9&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://komarev.com/ghpvc/?username=sinamhd9&color=blueviolet)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sinamhd9)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Sinamhd9/Sinamhd9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
