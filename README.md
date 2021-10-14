@@ -1,16 +1,23 @@
-## Hi, welcome to my profile!👋 <div align="right">
-<a href="https://github.com/sinamhd9" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.kaggle.com/sinamhd9" target="_blank">
-<img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/sina-mehdinia" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
+<h1 align="center">Hi 👋, I'm Sina</h1>
+<h3 align="center"> A PhD candidate at Portland State Univeristy, and a Kaggle Expert</h3>
 
- My name is Sina. I'm a PhD candidate at Portland State Univeristy, and a Kaggle Expert. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/sina-mehdinia/)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sinamhd9&label=Profile%20views&color=0e75b6&style=flat" alt="sinamhd9" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sinamhd9" alt="sinamhd9" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/sina-mehdinia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sina-mehdinia" height="30" width="40" /></a>
+<a href="https://kaggle.com/sinamhd9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sinamhd9" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/mehdinia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mehdinia" height="30" width="40" /></a>
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sinamhd9&show_icons=true&locale=en&layout=compact" alt="sinamhd9" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sinamhd9&show_icons=true&locale=en" alt="sinamhd9" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sinamhd9&" alt="sinamhd9" /></p>
+
 
 - 👀 I’m interested in imaging, computer vision, machine learning, data science, NDE, radar, and ultrasound.
 
