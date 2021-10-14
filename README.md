@@ -19,6 +19,19 @@
  
  </div>
 
+## Connect with me  
+<div align="center">
+<a href="https://github.com/sinamhd9" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.kaggle.com/sinamhd9" target="_blank">
+<img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/sina-mehdinia" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+</div>  
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sinamhd9&show_icons=true&theme=radical&count_private=true&show_icons=true&include_all_commits&hide_rank=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sinamhd9&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
