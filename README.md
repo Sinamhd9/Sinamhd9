@@ -3,7 +3,7 @@
  My name is Sina. I'm a PhD candidate at Portland State Univeristy, and a Kaggle Expert. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/sina-mehdinia/)!
 
 - 👀 I’m interested in imaging, computer vision, machine learning, data science, NDE, radar, and ultrasound.
-- 
+
 ### My top skills
 
 <div align="left">
