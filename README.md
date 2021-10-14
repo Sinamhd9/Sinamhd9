@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sina</h1>
-<h3 align="center"> A PhD candidate at Portland State Univeristy, and a Kaggle Expert</h3>
+<h1 align="left">Hi 👋, I'm Sina</h1>
+<h3 align="left"> A PhD candidate at Portland State Univeristy, and a Kaggle Expert</h3>
 
 - 👀 I’m interested in imaging, computer vision, machine learning, data science, NDE, radar, and ultrasound.
 
