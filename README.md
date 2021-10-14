@@ -5,15 +5,6 @@
 - 👀 I’m interested in imaging, computer vision, machine learning, data science, NDE, radar, and ultrasound.
 
 
-
-### Recent achievements 🏆
-* 🏆
-* 🥉 
-
-### Research
-
-* 📄 
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sinamhd9&show_icons=true&theme=radical&count_private=true&show_icons=true&include_all_commits)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sinamhd9&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
