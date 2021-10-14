@@ -1,6 +1,8 @@
 ## Hi, welcome to my profile!👋
 
-<div align="right">
+
+ My name is Sina. I'm a PhD candidate at Portland State Univeristy, and a Kaggle Expert. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/sina-mehdinia/)
+ <div align="right">
 <a href="https://github.com/sinamhd9" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -11,7 +13,6 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  
- My name is Sina. I'm a PhD candidate at Portland State Univeristy, and a Kaggle Expert. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/sina-mehdinia/)!
 
 - 👀 I’m interested in imaging, computer vision, machine learning, data science, NDE, radar, and ultrasound.
 
