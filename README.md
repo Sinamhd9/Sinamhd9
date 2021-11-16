@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Sina</h1>
 <h3 align="left"> PhD candidate at Portland State Univeristy, and Kaggle Expert</h3>
 
-- 👀 I’m interested in imaging, computer vision, machine learning, data science, NDE, radar, and ultrasound.
+- 👀 I love doing machine learning.
 
 ### My top skills
 <div align="left">
