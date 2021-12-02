@@ -22,8 +22,6 @@
 <a href="https://kaggle.com/sinamhd9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sinamhd9" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/mehdinia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mehdinia" height="30" width="40" /></a>
 </p>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sinamhd9&show_icons=true&theme=radical&count_private=true&show_icons=true&include_all_commits&hide_rank=true)
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sinamhd9&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
