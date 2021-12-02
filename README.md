@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Sina</h1>
-<h3 align="left"> PhD candidate at Portland State Univeristy, and Kaggle Expert</h3>
+<h3 align="left"> PhD candidate at Portland State Univeristy, Kaggle Expert</h3>
 
 - 👀 I love doing machine learning.
 
