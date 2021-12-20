@@ -1,7 +1,6 @@
 <h1 align="left">Hi 👋, I'm Sina</h1>
 <h3 align="left"> PhD Candidate at Portland State Univeristy, Kaggle Expert</h3>
 
-- 👀 I love doing machine learning.
 
 ### My top skills
 <div align="left">
